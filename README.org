@@ -1,0 +1,13 @@
+#+title: README
+
+* Overview
+
+weixin basic functions in django.
+
+- access_token
+- jsapi_ticket
+
+
+* Reference
+
+- [[https://uwsgi-docs.readthedocs.io/en/latest/tutorials/Django_and_nginx.html][deploy django to uwsgi with nginx]]
